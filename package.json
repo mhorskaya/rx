@@ -1,0 +1,14 @@
+{
+  "name": "rx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc && node ./dist/index.js"
+  },
+  "author": "Hakan Orskaya",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
